@@ -20,3 +20,8 @@ openssl  RSA
 keytool import  
   http://blog.qatools.ru/ssl/import-cert-to-java  
   https://www.sslshopper.com/article-most-common-java-keytool-keystore-commands.html  
+
+
+GRAYLOG
+При подключение если пароль содержить спецсимвол, он не кодируется в URL, а интерпритируется, для кодировки символа используется его кодовое значение:
+https://wm-school.ru/html/html_url_acsii.html  
