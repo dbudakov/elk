@@ -1,2 +1,4 @@
 # Деплой filebeat
-Настройка filebeat с отправкой системных логов или логов nginx
+  - отправка логов в elasticsearch
+  - отправка логов в logstash
+  - отправка логов в graylog
