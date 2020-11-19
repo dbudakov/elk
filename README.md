@@ -24,6 +24,8 @@ keytool import
 При подключение если пароль содержить спецсимвол, он не кодируется в URL, а интерпритируется, для кодировки символа используется его кодовое значение:
 https://wm-school.ru/html/html_url_acsii.html  
 
+Не умеет создавать индексы с указанием даты
+
 ## trouble
 [ERROR][o.e.b.Bootstrap][uoIqImq]Exception java.lang.IllegalStateException: failed to load plugin class [org.elasticsearch.xpack.watcher.Watcher]  
 https://discuss.elastic.co/t/failed-to-load-plugin-class-org-elasticsearch-xpack-core-xpackplugin/120627  
