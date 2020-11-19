@@ -31,6 +31,9 @@ https://discuss.elastic.co/t/failed-to-load-plugin-class-org-elasticsearch-xpack
 
 ## Оптимизация ELK
 https://github.com/dbudakov?tab=repositories
+шардинг - https://community.graylog.org/t/best-practice-for-index-configuration/984
 
 ## Backup
 можно бэкапить системные индексы, для сохранения настроек систем логирования, оповещения и мониторинга
+
+##
