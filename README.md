@@ -29,3 +29,7 @@ https://wm-school.ru/html/html_url_acsii.html
 trouble
 [ERROR][o.e.b.Bootstrap][uoIqImq]Exception java.lang.IllegalStateException: failed to load plugin class [org.elasticsearch.xpack.watcher.Watcher]  
 https://discuss.elastic.co/t/failed-to-load-plugin-class-org-elasticsearch-xpack-core-xpackplugin/120627  
+
+
+Оптимизация ELK
+https://github.com/dbudakov?tab=repositories
