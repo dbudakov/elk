@@ -1,3 +1,7 @@
+# Деплой nginx в режиме прокси для сервисов
+
+Kibana
+
 https://phoenixnap.com/kb/kibana-nginx-proxy  
 
 option for proxy, kibana  
