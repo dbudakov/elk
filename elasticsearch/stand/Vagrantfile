@@ -13,7 +13,7 @@ Vagrant.configure("2") do |config|
 #        os.vm.provision "shell", inline: <<SHELL
 #SHELL
         os.vm.provision "ansible" do |ansible|
-            ansible.verbose = "vv"
+            #ansible.verbose = "vvv"
             ansible.playbook = "playbooks/elastic_single.yml"
             ansible.become = "true"
         end
