@@ -40,4 +40,6 @@ https://github.com/dbudakov?tab=repositories
 ## Backup
 можно бэкапить системные индексы, для сохранения настроек систем логирования, оповещения и мониторинга
 
-##
+## Подстановка регулярок
+http://grokdebug.herokuapp.com/  
+https://regex101.com/  
